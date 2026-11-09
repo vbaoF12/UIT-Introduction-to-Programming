@@ -1,23 +1,24 @@
-# Introduction to Programming — UIT
+# Hi there! I'm a UIT Student 👋
 
-My C++ programming exercises from the **Introduction to Programming** course at the **University of Information Technology (UIT), VNU-HCM**.
+Information Security Student | UIT – VNUHCM
 
-## Topics
+## About Me
 
-| Folder | Topic | Contents |
-| --- | --- | --- |
-| [01-Loops](./01-Loops) | Loops | `for`, `while`, `do-while`, and loop-based exercises |
-| [02-Arrays](./02-Arrays) | Arrays | One-dimensional and two-dimensional arrays |
+🎓 Studying Information Security at University of Information Technology, VNU-HCM.
 
-## How to run
+💻 Currently learning C++, Python, Data Structures & Algorithms.
 
-Compile and run any exercise with a C++ compiler (for example, g++):
+🔐 Interested in Cybersecurity, AI and Software Development.
 
-```bash
-g++ 01-Loops/Exercise-01.cpp -o exercise
-./exercise
-```
+## Tech Stack
 
-Replace the example path with the name of an exercise you have uploaded.
+- C++
+- Python
+- Git
+- GitHub
+- VS Code
 
-> This repository is for documenting my own learning and practice. More exercises will be added as I study.
+## My Repositories
+
+- UIT Programming Fundamentals
+- Data Structures & Algorithms
