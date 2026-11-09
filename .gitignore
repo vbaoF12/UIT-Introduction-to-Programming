@@ -1,0 +1,15 @@
+# Compiled C/C++ files
+*.exe
+*.o
+*.obj
+*.out
+*.a
+*.so
+*.dll
+*.dSYM/
+
+# Local editor and build files
+.vscode/
+build/
+Debug/
+Release/
