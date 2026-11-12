@@ -1,0 +1,432 @@
+[
+  {
+    "problem_id": 1354,
+    "submission_id": 1414706,
+    "assignment_id": 1886,
+    "path": "03-Functions/Sum-Two-Integers-1354.cpp",
+    "verdict": "CORRECT ANSWER",
+    "template": "03-Functions/Sum-Two-Integers-1354.template.cpp",
+    "template_status": "retrieved",
+    "source_url": "https://khmt.uit.edu.vn/wecode25/it00x/submissions/create/assignment/1886/problem/1354/1414706"
+  },
+  {
+    "problem_id": 1329,
+    "submission_id": 1414427,
+    "assignment_id": 1886,
+    "path": "01-Loops/Seasonal-Tree-Growth-1329.cpp",
+    "verdict": "CORRECT ANSWER",
+    "template": null,
+    "template_status": "not_present_in_accessible_editor_or_not_required_by_complete_submission",
+    "source_url": "https://khmt.uit.edu.vn/wecode25/it00x/submissions/create/assignment/1886/problem/1329/1414427"
+  },
+  {
+    "problem_id": 1343,
+    "submission_id": 1412313,
+    "assignment_id": 1886,
+    "path": "03-Functions/Count-Special-Numbers-1343.cpp",
+    "verdict": "CORRECT ANSWER",
+    "template": null,
+    "template_status": "not_present_in_accessible_editor_or_not_required_by_complete_submission",
+    "source_url": "https://khmt.uit.edu.vn/wecode25/it00x/submissions/create/assignment/1886/problem/1343/1412313"
+  },
+  {
+    "problem_id": 1342,
+    "submission_id": 1412180,
+    "assignment_id": 1886,
+    "path": "03-Functions/Count-Divisor-Digits-1342.cpp",
+    "verdict": "CORRECT ANSWER",
+    "template": null,
+    "template_status": "not_present_in_accessible_editor_or_not_required_by_complete_submission",
+    "source_url": "https://khmt.uit.edu.vn/wecode25/it00x/submissions/create/assignment/1886/problem/1342/1412180"
+  },
+  {
+    "problem_id": 1323,
+    "submission_id": 1410829,
+    "assignment_id": 1886,
+    "path": "03-Functions/Greatest-Common-Divisor-1323.cpp",
+    "verdict": "CORRECT ANSWER",
+    "template": "03-Functions/Greatest-Common-Divisor-1323.template.cpp",
+    "template_status": "retrieved",
+    "source_url": "https://khmt.uit.edu.vn/wecode25/it00x/submissions/create/assignment/1886/problem/1323/1410829"
+  },
+  {
+    "problem_id": 778,
+    "submission_id": 1406709,
+    "assignment_id": 1886,
+    "path": "03-Functions/Twin-Primes-778.cpp",
+    "verdict": "CORRECT ANSWER",
+    "template": null,
+    "template_status": "not_present_in_accessible_editor_or_not_required_by_complete_submission",
+    "source_url": "https://khmt.uit.edu.vn/wecode25/it00x/submissions/create/assignment/1886/problem/778/1406709"
+  },
+  {
+    "problem_id": 779,
+    "submission_id": 1394401,
+    "assignment_id": 1886,
+    "path": "01-Loops/Palindrome-Number-779.cpp",
+    "verdict": "CORRECT ANSWER",
+    "template": null,
+    "template_status": "not_present_in_accessible_editor_or_not_required_by_complete_submission",
+    "source_url": "https://khmt.uit.edu.vn/wecode25/it00x/submissions/create/assignment/1886/problem/779/1394401"
+  },
+  {
+    "problem_id": 780,
+    "submission_id": 1390522,
+    "assignment_id": 1886,
+    "path": "01-Loops/Sum-of-Digits-780.cpp",
+    "verdict": "CORRECT ANSWER",
+    "template": null,
+    "template_status": "not_present_in_accessible_editor_or_not_required_by_complete_submission",
+    "source_url": "https://khmt.uit.edu.vn/wecode25/it00x/submissions/create/assignment/1886/problem/780/1390522"
+  },
+  {
+    "problem_id": 781,
+    "submission_id": 1390475,
+    "assignment_id": 1886,
+    "path": "01-Loops/Approximate-Pi-781.cpp",
+    "verdict": "CORRECT ANSWER",
+    "template": null,
+    "template_status": "not_present_in_accessible_editor_or_not_required_by_complete_submission",
+    "source_url": "https://khmt.uit.edu.vn/wecode25/it00x/submissions/create/assignment/1886/problem/781/1390475"
+  },
+  {
+    "problem_id": 782,
+    "submission_id": 1390449,
+    "assignment_id": 1886,
+    "path": "03-Functions/Power-and-Factorial-Series-782.cpp",
+    "verdict": "CORRECT ANSWER",
+    "template": null,
+    "template_status": "not_present_in_accessible_editor_or_not_required_by_complete_submission",
+    "source_url": "https://khmt.uit.edu.vn/wecode25/it00x/submissions/create/assignment/1886/problem/782/1390449"
+  },
+  {
+    "problem_id": 783,
+    "submission_id": 1390398,
+    "assignment_id": 1886,
+    "path": "01-Loops/Evaluate-Three-Series-783.cpp",
+    "verdict": "CORRECT ANSWER",
+    "template": null,
+    "template_status": "not_present_in_accessible_editor_or_not_required_by_complete_submission",
+    "source_url": "https://khmt.uit.edu.vn/wecode25/it00x/submissions/create/assignment/1886/problem/783/1390398"
+  },
+  {
+    "problem_id": 784,
+    "submission_id": 1390304,
+    "assignment_id": 1886,
+    "path": "01-Loops/Magic-Well-784.cpp",
+    "verdict": "CORRECT ANSWER",
+    "template": null,
+    "template_status": "not_present_in_accessible_editor_or_not_required_by_complete_submission",
+    "source_url": "https://khmt.uit.edu.vn/wecode25/it00x/submissions/create/assignment/1886/problem/784/1390304"
+  },
+  {
+    "problem_id": 1347,
+    "submission_id": 1389270,
+    "assignment_id": 1886,
+    "path": "01-Loops/Sum-of-Proper-Divisors-1347.cpp",
+    "verdict": "CORRECT ANSWER",
+    "template": null,
+    "template_status": "not_present_in_accessible_editor_or_not_required_by_complete_submission",
+    "source_url": "https://khmt.uit.edu.vn/wecode25/it00x/submissions/create/assignment/1886/problem/1347/1389270"
+  },
+  {
+    "problem_id": 786,
+    "submission_id": 1388102,
+    "assignment_id": 1886,
+    "path": "01-Loops/Prime-Number-Check-786.cpp",
+    "verdict": "CORRECT ANSWER",
+    "template": null,
+    "template_status": "not_present_in_accessible_editor_or_not_required_by_complete_submission",
+    "source_url": "https://khmt.uit.edu.vn/wecode25/it00x/submissions/create/assignment/1886/problem/786/1388102"
+  },
+  {
+    "problem_id": 1363,
+    "submission_id": 1387667,
+    "assignment_id": 1886,
+    "path": "01-Loops/Print-Christmas-Tree-1363.cpp",
+    "verdict": "CORRECT ANSWER",
+    "template": null,
+    "template_status": "not_present_in_accessible_editor_or_not_required_by_complete_submission",
+    "source_url": "https://khmt.uit.edu.vn/wecode25/it00x/submissions/create/assignment/1886/problem/1363/1387667"
+  },
+  {
+    "problem_id": 1345,
+    "submission_id": 1387560,
+    "assignment_id": 1886,
+    "path": "01-Loops/Print-Right-Aligned-Triangle-1345.cpp",
+    "verdict": "CORRECT ANSWER",
+    "template": null,
+    "template_status": "not_present_in_accessible_editor_or_not_required_by_complete_submission",
+    "source_url": "https://khmt.uit.edu.vn/wecode25/it00x/submissions/create/assignment/1886/problem/1345/1387560"
+  },
+  {
+    "problem_id": 1344,
+    "submission_id": 1387493,
+    "assignment_id": 1886,
+    "path": "01-Loops/Print-Left-Aligned-Triangle-1344.cpp",
+    "verdict": "CORRECT ANSWER",
+    "template": null,
+    "template_status": "not_present_in_accessible_editor_or_not_required_by_complete_submission",
+    "source_url": "https://khmt.uit.edu.vn/wecode25/it00x/submissions/create/assignment/1886/problem/1344/1387493"
+  },
+  {
+    "problem_id": 90,
+    "submission_id": 1378139,
+    "assignment_id": 1886,
+    "path": "03-Functions/Fibonacci-Function-90.cpp",
+    "verdict": "CORRECT ANSWER",
+    "template": "03-Functions/Fibonacci-Function-90.template.cpp",
+    "template_status": "retrieved",
+    "source_url": "https://khmt.uit.edu.vn/wecode25/it00x/submissions/create/assignment/1886/problem/90/1378139"
+  },
+  {
+    "problem_id": 788,
+    "submission_id": 1378131,
+    "assignment_id": 1886,
+    "path": "06-Recursion/Kth-Fibonacci-Number-788.cpp",
+    "verdict": "CORRECT ANSWER",
+    "template": null,
+    "template_status": "not_present_in_accessible_editor_or_not_required_by_complete_submission",
+    "source_url": "https://khmt.uit.edu.vn/wecode25/it00x/submissions/create/assignment/1886/problem/788/1378131"
+  },
+  {
+    "problem_id": 57,
+    "submission_id": 1217970,
+    "assignment_id": 1760,
+    "path": "04-Conditionals/Quadratic-Equation-57.cpp",
+    "verdict": "CORRECT ANSWER",
+    "template": null,
+    "template_status": "not_present_in_accessible_editor_or_not_required_by_complete_submission",
+    "source_url": "https://khmt.uit.edu.vn/wecode25/it00x/submissions/create/assignment/1760/problem/57/1217970"
+  },
+  {
+    "problem_id": 56,
+    "submission_id": 1217817,
+    "assignment_id": 1760,
+    "path": "04-Conditionals/Sort-Three-Numbers-56.cpp",
+    "verdict": "CORRECT ANSWER",
+    "template": null,
+    "template_status": "not_present_in_accessible_editor_or_not_required_by_complete_submission",
+    "source_url": "https://khmt.uit.edu.vn/wecode25/it00x/submissions/create/assignment/1760/problem/56/1217817"
+  },
+  {
+    "problem_id": 55,
+    "submission_id": 1217681,
+    "assignment_id": 1760,
+    "path": "04-Conditionals/Compare-Two-Integers-55.cpp",
+    "verdict": "CORRECT ANSWER",
+    "template": null,
+    "template_status": "not_present_in_accessible_editor_or_not_required_by_complete_submission",
+    "source_url": "https://khmt.uit.edu.vn/wecode25/it00x/submissions/create/assignment/1760/problem/55/1217681"
+  },
+  {
+    "problem_id": 54,
+    "submission_id": 1217594,
+    "assignment_id": 1760,
+    "path": "05-Basics-and-Arithmetic/Round-to-Fraction-54.cpp",
+    "verdict": "CORRECT ANSWER",
+    "template": null,
+    "template_status": "unavailable_editor_closed",
+    "source_url": "https://khmt.uit.edu.vn/wecode25/it00x/submissions/create/assignment/1760/problem/54/1217594"
+  },
+  {
+    "problem_id": 53,
+    "submission_id": 1216776,
+    "assignment_id": 1760,
+    "path": "04-Conditionals/Linear-Equation-53.cpp",
+    "verdict": "CORRECT ANSWER",
+    "template": null,
+    "template_status": "not_present_in_accessible_editor_or_not_required_by_complete_submission",
+    "source_url": "https://khmt.uit.edu.vn/wecode25/it00x/submissions/create/assignment/1760/problem/53/1216776"
+  },
+  {
+    "problem_id": 52,
+    "submission_id": 1216691,
+    "assignment_id": 1760,
+    "path": "04-Conditionals/Temperature-Based-Activity-52.cpp",
+    "verdict": "CORRECT ANSWER",
+    "template": null,
+    "template_status": "unavailable_editor_closed",
+    "source_url": "https://khmt.uit.edu.vn/wecode25/it00x/submissions/create/assignment/1760/problem/52/1216691"
+  },
+  {
+    "problem_id": 51,
+    "submission_id": 1216577,
+    "assignment_id": 1760,
+    "path": "04-Conditionals/Classify-Age-and-Gender-51.cpp",
+    "verdict": "CORRECT ANSWER",
+    "template": null,
+    "template_status": "unavailable_editor_closed",
+    "source_url": "https://khmt.uit.edu.vn/wecode25/it00x/submissions/create/assignment/1760/problem/51/1216577"
+  },
+  {
+    "problem_id": 2518,
+    "submission_id": 1148054,
+    "assignment_id": 1637,
+    "path": "05-Basics-and-Arithmetic/Rope-Perimeter-2518.cpp",
+    "verdict": "CORRECT ANSWER",
+    "template": null,
+    "template_status": "not_present_in_accessible_editor_or_not_required_by_complete_submission",
+    "source_url": "https://khmt.uit.edu.vn/wecode25/it00x/submissions/create/assignment/1637/problem/2518/1148054"
+  },
+  {
+    "problem_id": 2591,
+    "submission_id": 1147749,
+    "assignment_id": 1637,
+    "path": "01-Loops/Magic-Safe-Modular-Inverse-2591.cpp",
+    "verdict": "CORRECT ANSWER",
+    "template": null,
+    "template_status": "not_present_in_accessible_editor_or_not_required_by_complete_submission",
+    "source_url": "https://khmt.uit.edu.vn/wecode25/it00x/submissions/create/assignment/1637/problem/2591/1147749"
+  },
+  {
+    "problem_id": 2521,
+    "submission_id": 1127506,
+    "assignment_id": 1637,
+    "path": "07-Characters/Caesar-Cipher-2521.cpp",
+    "verdict": "CORRECT ANSWER",
+    "template": null,
+    "template_status": "not_present_in_accessible_editor_or_not_required_by_complete_submission",
+    "source_url": "https://khmt.uit.edu.vn/wecode25/it00x/submissions/create/assignment/1637/problem/2521/1127506"
+  },
+  {
+    "problem_id": 2594,
+    "submission_id": 1126985,
+    "assignment_id": 1637,
+    "path": "05-Basics-and-Arithmetic/Squares-from-a-Side-2594.cpp",
+    "verdict": "CORRECT ANSWER",
+    "template": null,
+    "template_status": "not_present_in_accessible_editor_or_not_required_by_complete_submission",
+    "source_url": "https://khmt.uit.edu.vn/wecode25/it00x/submissions/create/assignment/1637/problem/2594/1126985"
+  },
+  {
+    "problem_id": 50,
+    "submission_id": 1126229,
+    "assignment_id": 1637,
+    "path": "05-Basics-and-Arithmetic/Absolute-Value-50.cpp",
+    "verdict": "CORRECT ANSWER",
+    "template": null,
+    "template_status": "unavailable_editor_closed",
+    "source_url": "https://khmt.uit.edu.vn/wecode25/it00x/submissions/create/assignment/1637/problem/50/1126229"
+  },
+  {
+    "problem_id": 49,
+    "submission_id": 1126074,
+    "assignment_id": 1637,
+    "path": "05-Basics-and-Arithmetic/Chain-Length-49.cpp",
+    "verdict": "CORRECT ANSWER",
+    "template": null,
+    "template_status": "not_present_in_accessible_editor_or_not_required_by_complete_submission",
+    "source_url": "https://khmt.uit.edu.vn/wecode25/it00x/submissions/create/assignment/1637/problem/49/1126074"
+  },
+  {
+    "problem_id": 48,
+    "submission_id": 1126009,
+    "assignment_id": 1637,
+    "path": "05-Basics-and-Arithmetic/Triangle-Area-48.cpp",
+    "verdict": "CORRECT ANSWER",
+    "template": null,
+    "template_status": "not_present_in_accessible_editor_or_not_required_by_complete_submission",
+    "source_url": "https://khmt.uit.edu.vn/wecode25/it00x/submissions/create/assignment/1637/problem/48/1126009"
+  },
+  {
+    "problem_id": 46,
+    "submission_id": 1125846,
+    "assignment_id": 1637,
+    "path": "05-Basics-and-Arithmetic/Even-or-Odd-46.cpp",
+    "verdict": "CORRECT ANSWER",
+    "template": null,
+    "template_status": "unavailable_editor_closed",
+    "source_url": "https://khmt.uit.edu.vn/wecode25/it00x/submissions/create/assignment/1637/problem/46/1125846"
+  },
+  {
+    "problem_id": 45,
+    "submission_id": 1125821,
+    "assignment_id": 1637,
+    "path": "05-Basics-and-Arithmetic/Chickens-and-Dogs-45.cpp",
+    "verdict": "CORRECT ANSWER",
+    "template": null,
+    "template_status": "not_present_in_accessible_editor_or_not_required_by_complete_submission",
+    "source_url": "https://khmt.uit.edu.vn/wecode25/it00x/submissions/create/assignment/1637/problem/45/1125821"
+  },
+  {
+    "problem_id": 44,
+    "submission_id": 1125758,
+    "assignment_id": 1637,
+    "path": "04-Conditionals/Minimum-and-Maximum-44.cpp",
+    "verdict": "CORRECT ANSWER",
+    "template": null,
+    "template_status": "not_present_in_accessible_editor_or_not_required_by_complete_submission",
+    "source_url": "https://khmt.uit.edu.vn/wecode25/it00x/submissions/create/assignment/1637/problem/44/1125758"
+  },
+  {
+    "problem_id": 43,
+    "submission_id": 1125710,
+    "assignment_id": 1637,
+    "path": "05-Basics-and-Arithmetic/Square-Perimeter-and-Area-43.cpp",
+    "verdict": "CORRECT ANSWER",
+    "template": null,
+    "template_status": "not_present_in_accessible_editor_or_not_required_by_complete_submission",
+    "source_url": "https://khmt.uit.edu.vn/wecode25/it00x/submissions/create/assignment/1637/problem/43/1125710"
+  },
+  {
+    "problem_id": 42,
+    "submission_id": 1125677,
+    "assignment_id": 1637,
+    "path": "05-Basics-and-Arithmetic/Four-Arithmetic-Operations-42.cpp",
+    "verdict": "CORRECT ANSWER",
+    "template": null,
+    "template_status": "not_present_in_accessible_editor_or_not_required_by_complete_submission",
+    "source_url": "https://khmt.uit.edu.vn/wecode25/it00x/submissions/create/assignment/1637/problem/42/1125677"
+  },
+  {
+    "problem_id": 41,
+    "submission_id": 1125505,
+    "assignment_id": 1637,
+    "path": "05-Basics-and-Arithmetic/PSI-Conversion-41.cpp",
+    "verdict": "CORRECT ANSWER",
+    "template": null,
+    "template_status": "not_present_in_accessible_editor_or_not_required_by_complete_submission",
+    "source_url": "https://khmt.uit.edu.vn/wecode25/it00x/submissions/create/assignment/1637/problem/41/1125505"
+  },
+  {
+    "problem_id": 40,
+    "submission_id": 1125479,
+    "assignment_id": 1637,
+    "path": "05-Basics-and-Arithmetic/Temperature-Conversion-40.cpp",
+    "verdict": "CORRECT ANSWER",
+    "template": null,
+    "template_status": "unavailable_editor_closed",
+    "source_url": "https://khmt.uit.edu.vn/wecode25/it00x/submissions/create/assignment/1637/problem/40/1125479"
+  },
+  {
+    "problem_id": 39,
+    "submission_id": 1094015,
+    "assignment_id": 1633,
+    "path": "05-Basics-and-Arithmetic/Print-Rectangle-and-Triangle-39.cpp",
+    "verdict": "CORRECT ANSWER",
+    "template": "05-Basics-and-Arithmetic/Print-Rectangle-and-Triangle-39.template.cpp",
+    "template_status": "retrieved",
+    "source_url": "https://khmt.uit.edu.vn/wecode25/it00x/submissions/create/assignment/1633/problem/39/1094015"
+  },
+  {
+    "problem_id": 532,
+    "submission_id": 1093990,
+    "assignment_id": 1633,
+    "path": "05-Basics-and-Arithmetic/Multiply-Two-Integers-532.cpp",
+    "verdict": "CORRECT ANSWER",
+    "template": null,
+    "template_status": "not_present_in_accessible_editor_or_not_required_by_complete_submission",
+    "source_url": "https://khmt.uit.edu.vn/wecode25/it00x/submissions/create/assignment/1633/problem/532/1093990"
+  },
+  {
+    "problem_id": 531,
+    "submission_id": 1093807,
+    "assignment_id": 1633,
+    "path": "05-Basics-and-Arithmetic/Print-Son-Tung-MTP-531.cpp",
+    "verdict": "CORRECT ANSWER",
+    "template": null,
+    "template_status": "not_present_in_accessible_editor_or_not_required_by_complete_submission",
+    "source_url": "https://khmt.uit.edu.vn/wecode25/it00x/submissions/create/assignment/1633/problem/531/1093807"
+  }
+]
